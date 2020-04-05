@@ -1,7 +1,9 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+Name: Feature request
+About: Suggest an idea for this project
 ---
+
+**Did you look whether there is already an existing issue for your request?**
 
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
