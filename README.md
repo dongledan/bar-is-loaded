@@ -1,0 +1,1 @@
+# bar-is-loaded-issue-request
