@@ -35,6 +35,13 @@ Please search the existing issues page before submitting a new issue, there may 
 * [Bug Report](https://github.com/dongledan/bar-is-loaded/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)
 * [Feature Request](https://github.com/dongledan/bar-is-loaded/blob/master/.github/ISSUE_TEMPLATE/feature_request.md)
 
+## Privacy Policy
+I don't store your data, period. 
+
+I physically can't, I have no where to store it. I don't even have a database to store it in!
+
+[Click here for more info](https://github.com/dongledan/bar-is-loaded/blob/master/privacy_policy.md)
+
 ## Links
 * App Store
 * [Developer Website](http://dannyli.us/)
