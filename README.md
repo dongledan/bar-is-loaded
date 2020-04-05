@@ -22,11 +22,16 @@ I created this app during my time in quarantine in 2020. I first got the idea fo
 #### LB | KG
 * Ability to switch between LB or KG inputs throughout the app
 
-## Feature Requests & Bugs
-[This](https://github.com/dongledan/bar-is-loaded-issue-request/issues) is the public issue tracking system for the Bar is Loaded app. This is the place for feature requests, bug reporting, and general questions regarding the app. For feature requests please provide a detailed description on what problem you'd like to see solved. For bug reports, please provide the necessary steps to reproduce the problem.
+## Bug Reports & Feature Requests
+[This](https://github.com/dongledan/bar-is-loaded-issue-request/issues) is the public issue tracking system for the Bar is Loaded app. This is the place for feature requests, bug reporting, and general questions regarding the app. For feature requests, please provide a detailed description on what problem you'd like to see solved. For bug reports, please provide the necessary steps to reproduce the problem.
 
 Please search the existing issues page before submitting a new issue, there may already be an issue for your exact problem. You can +1 vote :+1: on existing issues you'd like to see implemented. Thank you for contributing!
+
+* [Bug Report](https://github.com/dongledan/bar-is-loaded-issue-request/blob/master/ISSUE-TEMPLATE.md/bug_report.md)
+* [Feature Request](https://github.com/dongledan/bar-is-loaded-issue-request/blob/master/ISSUE-TEMPLATE.md/feature_request.md)
 
 ## Links
 * App Store
 * [Developer Website](http://dannyli.us/)
+* [/u/dongle-dan](https://www.reddit.com/user/dongle-dan)
+
