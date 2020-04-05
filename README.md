@@ -1,4 +1,4 @@
-![Bar is Loaded app icon](https://github.com/dongledan/bar-is-loaded-issue-request/blob/master/icon3.png)
+![Bar is Loaded app icon](https://github.com/dongledan/bar-is-loaded/blob/master/icon3.png)
 # Bar is Loaded
 ## Mission
 I created this app during my time in quarantine in 2020. I first got the idea for this app after competing in a USAPL powerlifting meet. It was my second meet but first in this federation. Up to the meet, I was training with pound plates and had gotten used to quick maths for loading the bar. However, USAPL uses calibrated KG plates-- on the platform and in the warmup room (depending on venue). Although it's just simple division by 2.2046 to find lb to kg, it was still very annoying. There are a lot of things going on that day and my goal was to have an app to do plate loading calculations with a simple graphic that's easy to follow.
