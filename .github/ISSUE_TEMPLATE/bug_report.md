@@ -1,11 +1,10 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
 
 ---
+
+**Did you look whether there is already an exisiting issue for your request?**
 
 **Describe the bug**
 A clear and concise description of what the bug is.
