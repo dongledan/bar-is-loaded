@@ -27,6 +27,6 @@ I created this app during my time in quarantine in 2020. I first got the idea fo
 
 Please search the existing issues page before submitting a new issue, there may already be an issue for your exact problem. You can +1 vote :+1: on existing issues you'd like to see implemented. Thank you for contributing!
 
-##Links
+## Links
 * App Store
 * [Developer Website](http://dannyli.us/)
