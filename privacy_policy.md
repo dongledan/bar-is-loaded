@@ -32,3 +32,4 @@ I do not knowingly solicit information from or market to children under the age 
 ### CONTACT US
 If you have questions or comments about this Privacy Policy, please contact me at:
 * dongledan@yahoo.com
+* [/u/dongle-dan](https://www.reddit.com/user/dongle-dan)
