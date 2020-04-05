@@ -33,3 +33,5 @@ Please search the existing issues page before submitting a new issue, there may 
 ## Links
 * App Store
 * [Developer Website](http://dannyli.us/)
+* [/u/dongle-dan](https://www.reddit.com/user/dongle-dan)
+
