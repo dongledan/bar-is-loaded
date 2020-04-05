@@ -27,8 +27,8 @@ I created this app during my time in quarantine in 2020. I first got the idea fo
 
 Please search the existing issues page before submitting a new issue, there may already be an issue for your exact problem. You can +1 vote :+1: on existing issues you'd like to see implemented. Thank you for contributing!
 
-* [Bug Report](https://github.com/dongledan/bar-is-loaded-issue-request/blob/master/ISSUE-TEMPLATE.md/bug_report.md)
-* [Feature Request](https://github.com/dongledan/bar-is-loaded-issue-request/blob/master/ISSUE-TEMPLATE.md/feature_request.md)
+* [Bug Report](https://github.com/dongledan/bar-is-loaded/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)
+* [Feature Request](https://github.com/dongledan/bar-is-loaded/blob/master/.github/ISSUE_TEMPLATE/feature_request.md)
 
 ## Links
 * App Store
