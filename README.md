@@ -8,21 +8,31 @@ I created this app during my time in quarantine in 2020. I first got the idea fo
 * Shows how many plates you need on each side
 * Easy to switch between KG or LB plates
 
+![home.png](assets/home.png)
+
 #### Customizable Inventory
 * Ability to change bar weight, remove clips, tailor the plates to what you have on hand
 
+![inventory.png](assets/inventory.png)
+
 #### Attempt Selections
 * Enter a weight to display your first, second, and third attempts for meet day
+
+![attempts.png](assets/attempts.png)
 
 #### Powerlifting Points Calculator
 * Enter your total and bodyweight to display
   - Wilks Score
   - IPF Points
   - DOTS Score
+  
+  ![points.png](assets/points.png)
 
 #### RPE Calculator
 * Enter your weight lifted, reps, RPE to display estimated 1 rep max for that day
 * Also shows you the next weight based on desired reps and RPE
+
+![rpe.png](assets/rpe.png)
 
 #### LB | KG
 * Ability to switch between LB or KG inputs throughout the app
