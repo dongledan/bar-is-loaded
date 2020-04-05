@@ -1,6 +1,7 @@
 ---
 Name: Feature request
 About: Suggest an idea for this project
+
 ---
 
 **Did you look whether there is already an existing issue for your request?**
