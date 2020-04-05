@@ -26,7 +26,7 @@ I created this app during my time in quarantine in 2020. I first got the idea fo
   - IPF Points
   - DOTS Score
   
-  ![points.png](assets/points.png)
+![points.png](assets/points.png)
 
 #### RPE Calculator
 * Enter your weight lifted, reps, RPE to display estimated 1 rep max for that day
