@@ -7,6 +7,8 @@ I created this app during my time in quarantine in 2020. I first got the idea fo
 #### Plate Loading Calculations
 * Shows how many plates you need on each side
 * Easy to switch between KG or LB plates
+* Option to display both KG & LB plates
+* KG or LB inputs
 
 #### Customizable Inventory
 * Ability to change bar weight, remove clips, tailor the plates to what you have on hand
@@ -41,6 +43,10 @@ I don't store your data, period.
 I physically can't, I have no where to store it. I don't even have a database to store it in!
 
 [Click here for more info](https://github.com/dongledan/bar-is-loaded/blob/master/privacy_policy.md)
+
+## FAQ
+#### Who is Henry?
+He's a buddy that I just wanted to mess with.
 
 ## Links
 * App Store
