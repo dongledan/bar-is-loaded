@@ -13,7 +13,9 @@ I created this app during my time in quarantine in 2020. I first got the idea fo
 #### Customizable Inventory
 * Ability to change bar weight, remove clips, tailor the plates to what you have on hand
 
-#### Attempt Selections
+#### Prep
+* 1 rep max calculator based on 1 to 10 reps-- perfect for training maxes
+* Suggestions for exercises to tackle sticking points. Each exercise is a link to a short YouTube video
 * Enter a weight to display your first, second, and third attempts for meet day
 
 #### Powerlifting Points Calculator
@@ -38,15 +40,19 @@ Please search the existing issues page before submitting a new issue, there may 
 * [Feature Request](https://github.com/dongledan/bar-is-loaded/blob/master/.github/ISSUE_TEMPLATE/feature_request.md)
 
 ## Privacy Policy
-I don't store your data, period. 
-
-I physically can't, I have no where to store it. I don't even have a database to store it in!
+I don't store your data, period. There is no external database, how many plates you have or how much your barbell weighs is your business.
 
 [Click here for more info](https://github.com/dongledan/bar-is-loaded/blob/master/privacy_policy.md)
 
 ## FAQ
 #### Who is Henry?
 He's a buddy that I just wanted to mess with.
+
+#### How are the weight calculated?
+Based on the input weight, it is rounded down to the smallest plate in your inventory (ex. 1.25kg would be rounded to the nearest 2.5kg since 1.25 + 1.25 plates on each end is 2.5 quick maths). I also rounded down because I think it's better to be conservative than to overshoot.
+
+#### Who is this app for?
+Any swole people out there who doesn't want to do math, it's leg day-- not brain day. Personally for me, it's when I go to a gym with kg plates or at a meet that uses kg plates. I usually train with lb plates and it'll be one less thing to worry about warming up.
 
 ## Links
 * App Store
