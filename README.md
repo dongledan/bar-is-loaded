@@ -48,7 +48,7 @@ I don't store your data, period. There is no external database, how many plates 
 #### Who is Henry?
 He's a buddy that I just wanted to mess with.
 
-#### How are the weight calculated?
+#### How are the weights calculated?
 Based on the input weight, it is rounded down to the smallest plate in your inventory (ex. 1.25kg would be rounded to the nearest 2.5kg since 1.25 + 1.25 plates on each end is 2.5 quick maths). I also rounded down because I think it's better to be conservative than to overshoot.
 
 #### Who is this app for?
