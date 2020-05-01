@@ -55,7 +55,8 @@ Based on the input weight, it is rounded down to the smallest plate in your inve
 Any swole people out there who doesn't want to do math, it's leg day-- not brain day. Personally for me, it's when I go to a gym with kg plates or at a meet that uses kg plates. I usually train with lb plates and it'll be one less thing to worry about warming up.
 
 ## Links
-* App Store
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.dongledan.barisloaded)
+* [Apple App Store](https://apps.apple.com/us/app/bar-is-loaded-gym-calculator/id1509374210?ls=1)
 * [Developer Website](http://dannyli.us/)
 * [/u/dongle-dan](https://www.reddit.com/user/dongle-dan)
 
