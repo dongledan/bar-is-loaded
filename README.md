@@ -1,5 +1,6 @@
 ![icon3.png](icon3.png)
 # Bar is Loaded
+[Google Play Store](https://play.google.com/store/apps/details?id=com.dongledan.barisloaded)  |   [Apple App Store](https://apps.apple.com/us/app/bar-is-loaded-gym-calculator/id1509374210?ls=1)
 ## Mission
 I created this app during my time in quarantine in 2020. I first got the idea for this app after competing in a USAPL powerlifting meet. It was my second meet but first in this federation. Up to the meet, I was training with pound plates and had gotten used to quick maths for loading the bar. However, USAPL uses calibrated KG plates-- on the platform and in the warmup room (depending on venue). Although it's just simple division by 2.2046 to find lb to kg, it was still very annoying. There are a lot of things going on that day and my goal was to have an app to do plate loading calculations with a simple graphic that's easy to follow.
 
@@ -55,8 +56,6 @@ Based on the input weight, it is rounded down to the smallest plate in your inve
 Any swole people out there who doesn't want to do math, it's leg day-- not brain day. Personally for me, it's when I go to a gym with kg plates or at a meet that uses kg plates. I usually train with lb plates and it'll be one less thing to worry about warming up.
 
 ## Links
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.dongledan.barisloaded)
-* [Apple App Store](https://apps.apple.com/us/app/bar-is-loaded-gym-calculator/id1509374210?ls=1)
 * [Developer Website](http://dannyli.us/)
 * [/u/dongle-dan](https://www.reddit.com/user/dongle-dan)
 
