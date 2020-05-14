@@ -10,6 +10,8 @@ I created this app during my time in quarantine in 2020. I first got the idea fo
 * Shows how many plates you need on each side
 * Easy to switch between KG or LB plates
 * Option to display both KG & LB plates
+* Reverse calculator where you choose plates first to determine the weight-- or when weight is already on the bar
+* Percent table that automatically calculate the bar
 * KG or LB inputs
 
 #### Customizable Inventory
@@ -32,6 +34,9 @@ I created this app during my time in quarantine in 2020. I first got the idea fo
 
 #### LB | KG
 * Ability to switch between LB or KG inputs throughout the app
+
+#### Dark Mode
+* Currently only available on iOS 13+ and Android 10+
 
 ## Bug Reports & Feature Requests
 [This](https://github.com/dongledan/bar-is-loaded-issue-request/issues) is the public issue tracking system for the Bar is Loaded app. This is the place for feature requests, bug reporting, and general questions regarding the app. For feature requests, please provide a detailed description on what problem you'd like to see solved. For bug reports, please provide the necessary steps to reproduce the problem.
