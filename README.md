@@ -62,6 +62,6 @@ Based on the input weight, it is rounded down to the smallest plate in your inve
 Any swole people out there who doesn't want to do math, it's leg day-- not brain day. Personally for me, it's when I go to a gym with kg plates or at a meet that uses kg plates. I usually train with lb plates and it'll be one less thing to worry about warming up.
 
 ## Links
-* [Developer Website](http://dannyli.us/)
+* [Danny Li](https://dannyboy.dev/)
 * [/u/dongle-dan](https://www.reddit.com/user/dongle-dan)
 
