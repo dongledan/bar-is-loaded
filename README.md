@@ -3,45 +3,39 @@
 [Google Play Store](https://play.google.com/store/apps/details?id=com.dongledan.barisloaded)  |   [Apple App Store](https://apps.apple.com/us/app/bar-is-loaded-gym-calculator/id1509374210?ls=1)
 
 ## Mission
-I created this app during my time in quarantine in 2020. I first got the idea for this app after competing in a USAPL powerlifting meet. It was my second meet but first in this federation. Up to the meet, I was training with pound plates and had gotten used to quick maths for loading the bar. However, USAPL uses calibrated KG plates-- on the platform and in the warmup room (depending on venue). Although it's just simple division by 2.2046 to find lb to kg, it was still very annoying. There are a lot of things going on that day and my goal was to have an app to do plate loading calculations with a simple graphic that's easy to follow.
+I built Bar Is Loaded in quarantine (2020) after competing in a USAPL powerlifting meet. Training with lb plates was easy, but meet day meant switching to kg—cue the mental math headache. My goal? A simple, visual app to handle plate loading so you can focus on lifting, not math.
 
 ## Features
-#### Plate Loading Calculations
-* Shows how many plates you need on each side
-* Easy to switch between KG or LB plates
-* Option to display both KG & LB plates
-* Reverse calculator where you choose plates first to determine the weight-- or when weight is already on the bar
-* Percent table that automatically calculate the bar
-* KG or LB inputs
+#### 🏋️ Plate Loading Calculator
+* Displays required plates per side
+* KG/LB toggle + mixed display option
+* Reverse calculator (start with plates, get total weight)
+* Percent sign 
 
-#### Customizable Inventory
-* Ability to change bar weight, remove clips, tailor the plates to what you have on hand
+#### 🔧 Custom Inventory
+* Add/Edit/Delete bars available, remove clips, and edit available plates
+* Ability to toggle between bumper or thinner plates
 
-#### Prep
-* 1 rep max calculator based on 1 to 10 reps-- perfect for training maxes
-* Suggestions for exercises to tackle sticking points. Each exercise is a link to a short YouTube video
-* Enter a weight to display your first, second, and third attempts for meet day
+#### 🎯 Meet & Training Tools
+* Sticking point exercise suggestions (w/ YouTube links)
+* Meet attempt planner
+* Recommended gym gear that I personally use
 
-#### Powerlifting Points Calculator
-* Enter your total and bodyweight to display
-  - Wilks Score
-  - IPF Points
-  - DOTS Score
-
-#### RPE Calculator
-* Enter your weight lifted, reps, RPE to display estimated 1 rep max for that day
-* Also shows you the next weight based on desired reps and RPE
+#### 📊 Powerlifting & RPE Calculators
+* Wilks, IPF, and DOTS score calculator
+* RPE/RIR estimator for 1RM and next lifts
+* 1RM calculator (1-10 reps)
 
 #### LB | KG
 * Ability to switch between LB or KG inputs throughout the app
 
-#### Dark Mode
-* Currently only available on iOS 13+ and Android 10+
+#### 🌙 Dark Mode
+* Available on iOS 13+ / Android 10+
 
 ## Bug Reports & Feature Requests
-[This](https://github.com/dongledan/bar-is-loaded-issue-request/issues) is the public issue tracking system for the Bar is Loaded app. This is the place for feature requests, bug reporting, and general questions regarding the app. For feature requests, please provide a detailed description on what problem you'd like to see solved. For bug reports, please provide the necessary steps to reproduce the problem.
+Got feedback? Report issues or request features on [Github](https://github.com/dongledan/bar-is-loaded-issue-request/issues). Check for existing issues first—+1 👍 if you want it too!
 
-Please search the existing issues page before submitting a new issue, there may already be an issue for your exact problem. You can +1 vote 👍 on existing issues you'd like to see implemented. Thank you for contributing!
+Thank you for contributing!
 
 * [Bug Report](https://github.com/dongledan/bar-is-loaded/blob/master/.github/ISSUE_TEMPLATE/bug_report.md)
 * [Feature Request](https://github.com/dongledan/bar-is-loaded/blob/master/.github/ISSUE_TEMPLATE/feature_request.md)
@@ -52,14 +46,20 @@ I don't store your data, period. There is no external database, how many plates 
 [Click here for more info](https://github.com/dongledan/bar-is-loaded/blob/master/privacy_policy.md)
 
 ## FAQ
-#### Who is Henry?
-He's a buddy that I just wanted to mess with.
+#### How do I switch between KG and LB?
+* Settings tab (last tab).
 
-#### How are the weights calculated?
-Based on the input weight, it is rounded down to the smallest plate in your inventory (ex. 1.25kg would be rounded to the nearest 2.5kg since 1.25 + 1.25 plates on each end is 2.5 quick maths). I also rounded down because I think it's better to be conservative than to overshoot.
+#### How are weights calculated?
+* Rounded down to the smallest plate in your inventory. (Ex: 1.25kg → 2.5kg because 1.25+1.25 = 2.5. Quick maths.)
+
+#### How do I customize my inventory & barbells?
+* Header links let you adjust plates, collars, and barbell weights. Add, edit, and swap with ease.
+
+#### What’s the percent value?
+* Adjusts how much of a weight is calculated (ex: 80% for warm-ups). Reset to 100% for normal use.
 
 #### Who is this app for?
-Any swole people out there who doesn't want to do math, it's leg day-- not brain day. Personally for me, it's when I go to a gym with kg plates or at a meet that uses kg plates. I usually train with lb plates and it'll be one less thing to worry about warming up.
+* Anyone who hates math on leg day. Great for lifters who train in lb but compete in kg.
 
 ## Links
 * [Danny Li](https://dannyboy.dev/)
