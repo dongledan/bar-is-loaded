@@ -1,6 +1,8 @@
 ![icon3.png](icon3.png)
 # Bar Is Loaded
-[Google Play Store](https://play.google.com/store/apps/details?id=com.dongledan.barisloaded)  |   [Apple App Store](https://apps.apple.com/us/app/bar-is-loaded-gym-calculator/id1509374210?ls=1)
+[Google Play Store](https://play.google.com/store/apps/details?id=com.dongledan.barisloaded2)  |   [Apple App Store](https://apps.apple.com/us/app/bar-is-loaded-gym-calculator/id1509374210?ls=1)
+
+[Old Google Play Store Link](https://play.google.com/store/apps/details?id=com.dongledan.barisloaded)
 
 ## Mission
 I built Bar Is Loaded in quarantine (2020) after competing in a USAPL powerlifting meet. Training with lb plates was easy, but meet day meant switching to kg—cue the mental math headache. My goal? A simple, visual app to handle plate loading so you can focus on lifting, not math.
