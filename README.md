@@ -5,7 +5,7 @@
 [Old Google Play Store Link](https://play.google.com/store/apps/details?id=com.dongledan.barisloaded)
 
 ## Mission
-I built Bar Is Loaded in quarantine (2020) after competing in a USAPL powerlifting meet. Training with lb plates was easy, but meet day meant switching to kg—cue the mental math headache. My goal? A simple, visual app to handle plate loading so you can focus on lifting, not math.
+I built Bar Is Loaded in quarantine (2020) after competing in a USAPL powerlifting meet. Training with # plates was easy, but meet day meant switching to kg. My goal? A simple, visual app to handle plate loading so you can focus on lifting, not math.
 
 ## Features
 #### 🏋️ Plate Loading Calculator
